@@ -1,6 +1,6 @@
 // Business Logic 
-function Player(userName) {
-    this.userName = userName;
+function Player(user) {
+    this.user = user;
     this.score = 0;
 };
 
@@ -23,7 +23,6 @@ Turn.prototype.diceRoller = function(player1, player2) {
         return randNumber
     };
 };
-
 
 //user interface logic
 $(document).ready(function(){
