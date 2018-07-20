@@ -47,8 +47,7 @@ $(document).ready(function(){
 
     $("form#roll").submit(function(event) {
      event.preventDefault();
-
-
+    
     var result = currentTurn.diceRoller(player1, player2);
 
 
