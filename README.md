@@ -1,27 +1,20 @@
-# Ping-Pong 
-#### The Person of Kellen Njoroge
+# Anita's Kitchen
+#### Pig Dice Game
 #### By Kellen Njoroge
 ## Description
- This project mainly expounds on ones skills in areas such as loops,  functions for arrays such as for each and also one's styling capbility
-## Specifications
-The project works quite easily...
-* If a number is divisible by 3 it goes ping
-* If a number is divible by 5 it goes pong
-* If a number is both disile by 3 and 5 it goes pingpong 
-* For numbers that are not divisile it will show the remainder 
-* It also counts up to the provided number
+ This is a landing page for Anita's restuarant, you get to see the various goods and services she has to offer.
 ## Technologies Used
-currently using HTML and CSS and JavaScript
+currently using HTML and CSS and Javascript
 ## Support and contact details
-If you have any problems you can always slack me @ Keller or send an email at \\muthonkel@gmail.com\\
+If you have any problems you can always slack me @ Keller
 ### Link
-[Ping-pong test link](https://kellennjoroge.github.io/Ping-Pong_Kellen/)
+[Anita's Kitchen Link](https://kellennjoroge.github.io/Anita-kitchen_Kellen/)
 ### prerequisites
-* web browser 
+* web browser
 * git
 ### installation
-\\ https://github.com/KellenNjoroge/Ping-Pong_Kellen \\
+git clone [Anita-kitchen_Kellen](https://github.com/KellenNjoroge/Anita-kitchen_Kellen)
 ## bugs
 cannot operate on explorer
 ### License
-Licensed under the [MIT license](LICENSE).
+Licensed under the [MIT](KELLEN).

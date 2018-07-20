@@ -1,0 +1,53 @@
+.container {
+    background: #fff;
+    background: rgba(255,255,255, 0.99);
+    border: 10px solid #5e86b6;
+    border-radius: 15px;
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-bottom: 50px;
+}
+    .player{
+      
+    } 
+    #player1{ 
+        padding: 10px;
+        border: 2px solid rgba(211, 211, 211, 0.44);
+        box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.14);
+        margin-left: -10%;
+        margin-right:-10%;
+        background-color: #9bcbea;
+        text-align: left;
+    }
+    #player2{
+        padding: 10px;
+        border: 2px solid rgba(211, 211, 211, 0.44);
+        box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.14);
+        margin-left: -10%;
+        margin-right:-10%;
+        background-color: #9bcbea; 
+        text-align: right;
+    }
+    .btn {
+      padding: 10px 25px;
+
+    }
+  
+    #roll .btn {
+      color: #fff;
+      background: #2a4a70;
+      border: #2a4a70;
+      margin-left: -15px;
+    }
+  
+     #end-turn .btn {
+      color: #fff;
+      background: #7a787c;
+      border: #2a4a70;
+      margin-left: -15px;
+    }
+  
