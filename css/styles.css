@@ -12,25 +12,29 @@
     padding-bottom: 50px;
 }
     .player{
-      
-    } 
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    text-align: center;
+    }
+    .active {
+        border: 4px solid rgba(211, 211, 211, 0.44);
+        border-radius: 10px;
+      }
     #player1{ 
         padding: 10px;
         border: 2px solid rgba(211, 211, 211, 0.44);
         box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.14);
-        margin-left: -10%;
-        margin-right:-10%;
         background-color: #9bcbea;
         text-align: left;
+        float: left;
     }
     #player2{
         padding: 10px;
         border: 2px solid rgba(211, 211, 211, 0.44);
         box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.14);
-        margin-left: -10%;
-        margin-right:-10%;
         background-color: #9bcbea; 
         text-align: right;
+        float: right;
     }
     .btn {
       padding: 10px 25px;
