@@ -1,6 +1,8 @@
-.container {
+#first-container {
     background: #fff;
     background:#89cff0;
+    border: 10px solid #FF6699;
+    border-radius: 15px;
     width: 500px;
     margin: auto;
     margin-top: 40px;
@@ -9,6 +11,25 @@
     padding-bottom: 25px;
     padding-bottom: 50px;
     text-align: center;
+    color:whitesmoke;   
+}
+#second-container{
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+h1{
+    color:#ff69b4 ;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
 }
     .player{
     font-size: 1.2em;
