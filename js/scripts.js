@@ -14,13 +14,14 @@ Turn.prototype.diceRoller = function(player1, player2) {
     this.total += randNumber;
 
     if(randNumber == 1) {
+        alert("Your turn is over, other player's turn.")
         this.total = 0;
         this.endTurn( player1, player2);
         return randNumber;
     }
     else {
         this.randNumber += randNumber;
-        return randNumber
+        return randNumber;
     };
 };
 

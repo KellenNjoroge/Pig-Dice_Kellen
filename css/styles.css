@@ -1,8 +1,6 @@
 .container {
     background: #fff;
     background: rgba(255,255,255, 0.99);
-    border: 10px solid #5e86b6;
-    border-radius: 15px;
     width: 500px;
     margin: auto;
     margin-top: 40px;
@@ -10,6 +8,7 @@
     padding-top: 25px;
     padding-bottom: 25px;
     padding-bottom: 50px;
+    text-align: center;
 }
     .player{
     font-size: 1.2em;
@@ -23,7 +22,7 @@
     #player1{ 
         padding: 10px;
         box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.14);
-        background-color: #9bcbea;
+        background-color: #2a4a70;
         text-align: left;
         float: left;
     }
