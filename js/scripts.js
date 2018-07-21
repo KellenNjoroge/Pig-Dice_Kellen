@@ -20,8 +20,8 @@ Turn.prototype.diceRoller = function(player1, player2) {
         return randNumber;
     }
     else {
-        this.score += randNumber;
-        return total;
+        this.score += total;
+        return randNumber;
     };
 };
 
