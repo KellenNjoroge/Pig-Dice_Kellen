@@ -1,3 +1,15 @@
+.container{
+    border: 10px solid #FF6699;
+    border-radius: 15px;
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-bottom: 50px;
+    text-align: center;
+}
 #first-container {
     background: #fff;
     background:#89cff0;
@@ -16,10 +28,10 @@
 #second-container{
     position: fixed;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.5);
+    background:#89cff0 ;
     color: #f1f1f1;
     width: 100%;
-    padding: 20px;
+    padding: 50px;
 }
 h1{
     color:#ff69b4 ;
