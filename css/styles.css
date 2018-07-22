@@ -21,26 +21,11 @@ body {
     padding-bottom: 25px;
     padding-bottom: 50px;
     text-align: center;
-    color:whitesmoke; 
+    color:#ff69b4; 
     opacity: 0.7;  
 
 }
-#first-container {
-    background: black;
-    border: 5px solid #FF6699;
-    border-radius: 15px;
-    width: 500px;
-    margin: auto;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-bottom: 50px;
-    text-align: center;
-  
-}
-#second-container{
-}
+
 h1{
     color:#ff69b4 ;
 }
@@ -60,7 +45,7 @@ h2{
     text-align: center;
     }
     .active {
-        border: 5px solid #7a787c;;
+        border: 5px solid whitesmoke;
         border-radius: 15px;
       }
     #player1{ 
@@ -73,7 +58,7 @@ h2{
     #player2{
         padding: 10px;
         box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.14);
-        background-color: #ff69b4 ; 
+        background-color: #2a4a70; 
         text-align: right;
         float: right;
     }
