@@ -1,5 +1,17 @@
+body {
+    background-image: url(../assets/pigdice.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+.body2{
+    background-image: url(../assets/pigdice.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
 .container{
-    border: 10px solid #FF6699;
+    border: 5px solid #FF6699;
     border-radius: 15px;
     width: 500px;
     margin: auto;
@@ -9,11 +21,13 @@
     padding-bottom: 25px;
     padding-bottom: 50px;
     text-align: center;
+    color:whitesmoke; 
+    opacity: 0.7;  
+
 }
 #first-container {
-    background: #fff;
-    background:#89cff0;
-    border: 10px solid #FF6699;
+    background: black;
+    border: 5px solid #FF6699;
     border-radius: 15px;
     width: 500px;
     margin: auto;
@@ -23,18 +37,15 @@
     padding-bottom: 25px;
     padding-bottom: 50px;
     text-align: center;
-    color:whitesmoke;   
+  
 }
 #second-container{
-    position: fixed;
-    bottom: 0;
-    background:#89cff0 ;
-    color: #f1f1f1;
-    width: 100%;
-    padding: 50px;
 }
 h1{
     color:#ff69b4 ;
+}
+h2{
+    color:#2a4a70;
 }
 #myVideo {
     position: fixed;
